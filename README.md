@@ -1,43 +1,77 @@
-# Hi there, I'm Deepak Baditya! 👋
+# Hi, I'm Deepak Baditya 👋
 
-🎓 Computer Engineering Graduate | Navi Mumbai  
-🌱 Passionate about Data — always learning, always growing!
-
----
-
-## 🚀 About Me
-
-- 🏫 Trained in **SQL, PL/SQL & Python** at **QSpiders**
-- 📊 Love working with data to find meaningful insights
-- 🤖 Exploring **Data Analysis** and **Data Science**
-- 💡 Currently building projects to sharpen my skills
-- 🎯 Open to **Data Analyst** & **Data Science** opportunities
+**Trainee Engineer (PL/SQL) @ Cirrius Technologies, Mumbai**
+Building toward a Data Analyst career through SQL, Python, Power BI, and end-to-end project delivery.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ What I Work With
 
-| Category | Tools |
-|---|---|
-| **Database** | Oracle SQL, PL/SQL |
-| **Programming** | Python |
-| **Data Libraries** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn |
-| **Others** | Power BI, Excel |
+**Query & Database**
+`Oracle SQL` `PL/SQL` `SQLite` `CTEs` `Window Functions` `Joins` `Subqueries` `Normalization`
+
+**Programming & Analysis**
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
+
+**Business Intelligence & Reporting**
+`Power BI` `DAX` `Power Query` `Excel (Advanced)` `Pivot Tables` `SUMIFS` `KPI Dashboards`
+
+**Machine Learning & Deployment**
+`Logistic Regression` `Random Forest` `Feature Engineering` `Scikit-learn Pipeline` `Streamlit` `Joblib`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
 
 ## 📂 Featured Projects
 
-- 🔹 [Power BI Dashboard](https://github.com/DeepakBaditya/power-bi-dashbaord) — Data visualization project
-- 🔹 [CCTV Surveillance](https://github.com/DeepakBaditya/CCTVSurveillance) — Python-based project
-- 🔹 [Alvigo](https://github.com/DeepakBaditya/Alvigo) — Algorithm visualizer
+### 🤖 [Customer Churn Prediction — ML & Streamlit Dashboard](https://github.com/DeepakBaditya/Customer-Churn-Prediction)
+End-to-end ML pipeline on **7,043 IBM Telco records**. SQLite + EDA + feature engineering across 12 features → Logistic Regression selected over Random Forest for superior recall on imbalanced data → **80.03% accuracy, 60% F1-score**. Deployed live on Streamlit.
+
+`Python` `SQLite` `Pandas` `Scikit-learn` `Streamlit` `EDA` `Matplotlib` `Seaborn`
+
+🔗 [Live Demo →](https://deepakbaditya-customer-churn-prediction-app-ipfbpk.streamlit.app/)
 
 ---
 
-## 📬 Connect With Me
+### 👥 [HR Attrition Analysis — SQL + EDA + Power BI](https://github.com/DeepakBaditya/hr-attrition-analysis-sql)
+**15+ SQL queries** on 1,470 IBM HR records using CTEs, CASE WHEN conditional aggregation, and DENSE_RANK window functions. Key finding: overtime employees leave at **3× the rate** of others. Highest-risk segment (overtime + low satisfaction) hits **36.6% attrition**. Complemented by a 3-page interactive Power BI dashboard.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepakbaditya/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DeepakBaditya)
+`SQL` `SQLite` `CTEs` `Window Functions` `Python` `Power BI` `Seaborn` `EDA`
 
 ---
+
+### 💧 [Water Quality Analysis — Power BI Dashboard](https://github.com/DeepakBaditya/power-bi-dashboard)
+Multi-page Power BI report analyzing **6 environmental parameters** — pH, Dissolved Oxygen, BOD, Temperature, Lead, and Pollution Level — to classify risk levels by water source. Time-intelligence visuals + cross-filtering by source and risk level.
+
+`Power BI` `DAX` `Power Query` `Data Visualization` `Time Intelligence`
+
+---
+
+### 📊 [Sales Performance Dashboard — Excel](https://github.com/DeepakBaditya/Sales_Dashboard)
+Interactive Excel dashboard tracking **141 executives across 8 regions** against a 500-unit target. Average attainment: **55.2%**. Surfaced a **15.5% performance gap** between best (Nagpur) and weakest (Ranchi) regions. Built with Pivot Tables, SUMIFS, and slicer-based filtering.
+
+`Excel` `Pivot Tables` `SUMIFS` `Power Query` `KPI Design` `Data Analysis`
+
+---
+
+## 📜 Certification
+
+**Oracle Cloud Infrastructure (OCI) — AI Foundations Associate** | Oracle MyLearn | 2025
+
+---
+
+## 💼 Experience
+
+**Trainee Engineer — PL/SQL** | Cirrius Technologies Pvt. Ltd., Mumbai | Aug 2026 – Present
+Working on Phyzii, a pharma CRM and SFA platform. Training in PL/SQL, Oracle database development, and enterprise application workflows.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakbaditya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DeepakBaditya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deepakbaditya6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://deepakfolio.lovable.app)
